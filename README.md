@@ -17,7 +17,7 @@ Proyecto Maven (Java 17) para un caso de estudio de testing unitario (JUnit 5 + 
   - AssumptionsTest.java
   - SuiteAllTests.java
 - pom.xml
-- INFORME_TDD_WINDSURF.md (informe TDD)
+- INFORME_TDD.md (informe TDD)
 
 ## Requisitos
 - Java 17+
